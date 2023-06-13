@@ -1,0 +1,24 @@
+{
+  "name": "kotoba-node-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "fontkit": "1.8.1",
+    "glob": "7.1.6",
+    "locko": "^1.0.0",
+    "mongoose": "^7.0.4",
+    "node-cache": "^5.1.2",
+    "sqlite": "4.0.7",
+    "tar": "6.1.11",
+    "validate-color": "2.1.0",
+    "xml2js": "0.5.0"
+  }
+}
